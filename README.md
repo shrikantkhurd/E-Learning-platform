@@ -9,9 +9,9 @@
 https://shrikantkhurd.github.io/Tech-World/
 
 ## Our Services
-Free Courses.
-Programming Hub.
-E-Books.
+1. Free Courses.
+2. Programming Hub.
+3. E-Books.
 
 ## License
 E-Learning Platform is a truly opensource E-Learning which will always be free under the MIT License.
